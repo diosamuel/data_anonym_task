@@ -1,0 +1,51 @@
+ID_Pasien,Nama,NIK,Tanggal_Lahir,Alamat,Kota,Provinsi,No_HP,Email,Penyakit,Gol_Darah,Tgl_Kunjungan,Biaya
+PSN1000,"Devi Oktaviani, M.TI.",5086369621880525,2010-10-11,"Jl. Ciwastra No. 02, Banjarbaru, MU 43082",Lhokseumawe,Kalimantan Utara,820996043,candrapuspasari@gmail.com,Covid-19,B,2024-12-12,3416612
+PSN1001,Umay Hariyah,9473882799712303,2000-02-11,"Jalan BKR No. 99, Manado, Gorontalo 96361",Sibolga,DI Yogyakarta,854487234,elon92@yahoo.com,Flu,B,2024-11-05,73247
+PSN1002,Fitriani Najmudin,8630345434677077,1941-12-13,"Gang Joyoboyo No. 311, Banjarbaru, Lampung 05065",Tangerang Selatan,Sumatera Barat,+62 (43) 649 2722,hbudiman@yahoo.com,Asma,B,2024-10-28,2754238
+PSN1003,Fitriani Rahayu,8.67E+15,1948-10-16,"Jalan Moch. Ramdan No. 472, Surakarta, Nusa Tenggara Barat 25475",Bukittinggi,Riau,+62 (29) 468-8378,bwaluyo@gmail.com,Flu,A,2025-10-07,2680708
+PSN1004,Yusuf Pudjiastuti,8287655072244799,2011-10-28,"Jalan Rumah Sakit No. 04, Purwokerto, SS 25970",Banda Aceh,Bali,+62-030-638-9027,irmaprasetyo@cv.net,Flu,B,2024-11-07,3544679
+PSN1005,"Elma Irawan, S.Ked",5463084681392615,1997-01-11,"Gang Rajawali Barat No. 27, Sungai Penuh, Nusa Tenggara Barat 26900",Batam,Papua,(020) 496-6421,jamilhasanah@gmail.com,Hipertensi,A,2025-02-19,1817640
+PSN1006,"Ir. Simon Oktaviani, S.E.I",1413876561054323,1968-01-02,"Gg. HOS. Cokroaminoto No. 347, Jayapura, JT 59982",Tangerang Selatan,Sulawesi Tenggara,(021) 863-3334,kariman32@perum.ponpes.id,Asma,B,2025-04-11,2663740
+PSN1007,Dadi Kuswandari,3.09E+15,2006-08-15,"Gang Ciwastra No. 519, Tomohon, Sumatera Utara 06969",Magelang,Gorontalo,+62-067-255-7272,hasanmaryati@perum.biz.id,Asma,O,2024-11-14,1335160
+PSN1008,"Fathonah Hastuti, S.Pd",4.29E+15,1962-12-09,"Gg. Suryakencana No. 7, Padang Sidempuan, JT 45402",Pariaman,Sulawesi Tenggara,(0503) 710 5528,siregarjuli@perum.org,Asma,O,2025-10-10,1475472
+PSN1009,Cager Sinaga,2798287295471866,1986-09-15,"Gg. Kapten Muslihat No. 37, Semarang, JK 51905",Jambi,Sulawesi Tengah,(0982) 473 6242,dpangestu@cv.gov,Flu,AB,2025-03-23,98984
+PSN1010,"Sutan Irfan Hastuti, M.Farm",1877817526997774,1955-08-06,"Gg. Setiabudhi No. 23, Purwokerto, Sulawesi Utara 50234",Padang Sidempuan,Kalimantan Barat,+62 (058) 083 3556,salahudintimbul@yahoo.com,Covid-19,O,2025-07-23,2450070
+PSN1011,Hamzah Adriansyah,9695694517955419,1974-04-10,"Gang Ahmad Dahlan No. 90, Pariaman, SN 63397",Kota Administrasi Jakarta Utara,Bali,+62 (73) 326-7504,utamasepti@ud.my.id,Asma,AB,2025-01-09,3315879
+PSN1012,Salwa Wibisono,6445008353887912,1967-07-07,"Jalan Laswi No. 835, Tegal, SU 79667",Tanjungbalai,Lampung,853921592,dalimanpurwanti@gmail.com,Demam Berdarah,O,2025-05-23,1554384
+PSN1013,"Patricia Halimah, S.Sos",9.72E+15,1986-11-12,"Gg. H.J Maemunah No. 1, Binjai, SG 08210",Kediri,Bali,+62 (074) 653-0374,leolaksmiwati@pd.gov,Flu,A,2024-12-29,2280919
+PSN1014,Raisa Maryadi,9927241183357734,1966-12-12,"Gang Ciwastra No. 53, Malang, Banten 06309",Meulaboh,Riau,(0641) 357-6396,ppratama@pt.or.id,Hipertensi,O,2025-07-18,1802126
+PSN1015,Dt. Simon Prabowo,1350554099317165,1979-06-16,"Gg. H.J Maemunah No. 36, Tarakan, BE 67186",Kota Administrasi Jakarta Selatan,Sulawesi Barat,+62 (0817) 525-9066,zulaikhasudiati@hotmail.com,Covid-19,AB,2025-07-15,4380634
+PSN1016,R.M. Kamal Laksita,8122979415485066,1975-09-17,"Gg. Indragiri No. 8, Padang Sidempuan, SU 28929",Banjar,Bengkulu,829430069,usaputra@perum.my.id,Demam Berdarah,AB,2025-05-24,1787095
+PSN1017,Yunita P,4798495782144712,1961-06-29,"Gang PHH. Mustofa No. 44, Padangpanjang, BA 21341",Pangkalpinang,Jambi,+62 (406) 821-0473,irwan11@ud.co.id,Demam Berdarah,B,2025-10-10,2161138
+PSN1018,drg. Olivia Rahmawati,1413840212536714,1955-09-27,"Jalan Jamika No. 666, Dumai, Sumatera Selatan 82694",Ternate,Kalimantan Barat,(0196) 739-8836,mahendrasafina@gmail.com,Hipertensi,A,2025-06-21,4830450
+PSN1019,Cawisono Utami,5118719883136408,1969-09-11,"Gang Siliwangi No. 7, Metro, JT 75216",Pangkalpinang,Bengkulu,+62 (0463) 877 3441,wawan91@pt.ponpes.id,Covid-19,O,2024-12-08,2159818
+PSN1020,Latika Yolanda,5427290130148542,1963-02-27,"Gang Sukajadi No. 7, Probolinggo, Sulawesi Tenggara 35995",Pekanbaru,Maluku Utara,+62-59-815-5991,hutasoitlaras@gmail.com,Flu,B,2025-09-08,2281785
+PSN1021,Gaduh Iswahyudi,5371525415644462,1978-01-02,"Jalan Otto Iskandardinata No. 35, Tomohon, Kalimantan Tengah 28647",Cirebon,Papua,+62 (0442) 987-5132,faizah13@hotmail.com,Diabetes,O,2024-10-30,4533302
+PSN1022,Puti Mulyani,7.79E+15,1977-07-25,"Jalan Rumah Sakit No. 02, Tidore Kepulauan, SU 07286",Meulaboh,Kalimantan Tengah,+62 (056) 634-7807,esaputra@cv.biz.id,Covid-19,O,2025-03-28,2998089
+PSN1023,"R.A. Gilda Pradana, S.E.",9805475135659233,1936-05-03,"Jalan Kiaracondong No. 320, Medan, RI 11801",Lubuklinggau,Sulawesi Barat,(076) 594-1568,wadi16@gmail.com,Hipertensi,B,2025-03-13,2775928
+PSN1024,Agnes Napitupulu,1.37E+15,1942-08-19,"Gg. Pasteur No. 868, Cimahi, SB 96347",Balikpapan,Bali,+62-0490-623-7812,wakiman71@pd.go.id,Demam Berdarah,B,2025-09-13,3903339
+PSN1025,"Kiandra Prayoga, S.Farm",7970268613642896,1938-09-18,"Gg. Rawamangun No. 531, Cilegon, KB 84365",Pariaman,Riau,+62 (0379) 551-1652,kawayapuspita@yahoo.com,Flu,B,2025-07-06,1893400
+PSN1026,Darman Pratiwi,4643403655647936,1967-01-13,"Gang Pasteur No. 88, Tidore Kepulauan, Kalimantan Utara 31669",Surakarta,Nusa Tenggara Timur,+62-07-523-5724,ella17@ud.go.id,Covid-19,B,2025-08-16,1129111
+PSN1027,R. Jabal Najmudin,5653881414763883,1972-08-11,"Jalan Soekarno Hatta No. 6, Banjar, JB 59915",Kota Administrasi Jakarta Barat,Jawa Barat,+62-068-335-7880,rikahutapea@yahoo.com,Diabetes,B,2025-08-08,1046107
+PSN1028,Hasim Pranowo,9639616490495326,1953-06-18,"Jalan Rajawali Timur No. 74, Prabumulih, LA 31846",Kendari,Sumatera Barat,+62-094-406-0746,tanggriawan@pd.net,Diabetes,O,2024-12-25,3571441
+PSN1029,Harjasa Handayani,1638600568591701,1993-08-01,"Gg. Lembong No. 726, Langsa, Sulawesi Selatan 77537",Palopo,Sumatera Selatan,+62 (73) 542-1606,ytampubolon@yahoo.com,Asma,B,2025-03-27,4595583
+PSN1030,Tugiman Ramadan,2469423590373906,1959-07-13,"Gg. Astana Anyar No. 85, Metro, BE 91032",Jayapura,Sulawesi Tengah,849573575,vinouwais@pt.mil,Asma,A,2025-03-24,1920230
+PSN1031,Tari Saragih,8.02E+15,1956-04-25,"Gg. Jend. Sudirman No. 0, Mojokerto, RI 35112",Tual,Maluku Utara,+62 (379) 069 2321,muni33@ud.net,Hipertensi,AB,2025-10-21,3797389
+PSN1032,Kardi Usamah,5961781317401339,1934-12-12,"Gg. Jend. Sudirman No. 4, Depok, JK 16586",Tarakan,Sulawesi Tengah,+62 (251) 860-8773,raharja37@gmail.com,Covid-19,B,2024-12-20,4192807
+PSN1033,Halima Puspita,4339121713333724,2000-11-26,"Gg. Ronggowarsito No. 66, Meulaboh, SG 19323",Pematangsiantar,Kepulauan Bangka Belitung,+62 (77) 360 1850,darmanamarpaung@hotmail.com,Covid-19,B,2025-07-04,4733874
+PSN1034,Dinda Setiawan,5410370392862795,2000-03-01,"Gang Dr. Djunjunan No. 855, Kupang, SS 09424",Prabumulih,Kalimantan Selatan,(010) 895-6345,baktianto73@gmail.com,Demam Berdarah,O,2024-12-23,3652279
+PSN1035,dr. Wirda Winarno,8717103327589964,1948-07-23,"Jalan Medokan Ayu No. 00, Bandung, PB 14949",Blitar,Sulawesi Tenggara,877251319,farhunnisa77@hotmail.com,Demam Berdarah,B,2025-03-06,2171690
+PSN1036,Sadina Lestari,5111621966837503,1970-12-06,"Jalan Ahmad Dahlan No. 241, Kota Administrasi Jakarta Barat, Sulawesi Utara 60465",Semarang,Jawa Barat,+62 (224) 106 8113,sabarsimanjuntak@perum.web.id,Demam Berdarah,B,2025-10-24,3041650
+PSN1037,Ophelia Marpaung,9346517700387384,1974-07-03,"Jalan Joyoboyo No. 898, Tidore Kepulauan, Sulawesi Utara 32377",Prabumulih,Jambi,(0224) 492-2047,rsaragih@hotmail.com,Asma,B,2024-12-02,541234
+PSN1038,"Titi Wibowo, S.Psi",8276050913315275,1935-01-10,"Jalan Rajiman No. 516, Madiun, Sulawesi Tengah 76789",Kota Administrasi Jakarta Selatan,Nusa Tenggara Timur,(0590) 437 9208,prasetyo30@cv.edu,Covid-19,O,2025-06-30,1998260
+PSN1039,Satya Narpati,9563755014773209,1974-07-11,"Jl. K.H. Wahid Hasyim No. 056, Surakarta, SG 40036",Bau-Bau,Kalimantan Timur,+62-0470-256-4695,zelaya31@perum.com,Covid-19,B,2025-08-24,4383486
+PSN1040,Kurnia Padmasari,7608776612421788,1981-05-28,"Gg. Pasir Koja No. 6, Tegal, Kalimantan Timur 92604",Batu,Jawa Timur,+62-413-521-7207,bahuraksa66@cv.co.id,Diabetes,AB,2025-06-14,1571101
+PSN1041,"Rafid Nainggolan, S.Psi",8575581117187835,1940-01-30,"Jl. Astana Anyar No. 7, Surabaya, NT 60964",Serang,Nusa Tenggara Barat,+62 (0163) 909 0042,lyuliarti@yahoo.com,Asma,O,2025-07-19,4428368
+PSN1042,Sarah Wahyudin,7025979999949307,1983-05-30,"Gg. M.H Thamrin No. 3, Padang, SU 38331",Pariaman,Bengkulu,(0828) 862 8159,maidanasyidah@cv.my.id,Flu,AB,2025-02-20,4458324
+PSN1043,"Fitriani Sihombing, S.Pt",9881848583917456,1957-05-11,"Jalan Cempaka No. 754, Kotamobagu, Papua 32915",Bontang,Lampung,+62-0402-780-9070,qzulaika@yahoo.com,Asma,O,2025-10-09,3186729
+PSN1044,Almira Lestari,2406270657723101,1987-08-01,"Gg. Pelajar Pejuang No. 60, Padang, Papua 20360",Surakarta,Riau,+62 (0363) 710-7699,laksmiwatihasim@gmail.com,Flu,B,2025-05-21,947421
+PSN1045,"Yani Zulkarnain, S.I.Kom",3.61E+15,1982-07-02,"Jalan Rawamangun No. 98, Mojokerto, PB 94769",Tomohon,Riau,+62 (430) 968 3096,rahayusakura@perum.or.id,Diabetes,AB,2025-03-06,172409
+PSN1046,"Drs. Mursita Pradana, S.T.",4636840758862923,1967-11-20,"Gg. Gegerkalong Hilir No. 82, Bandar Lampung, KR 15393",Payakumbuh,Maluku Utara,+62-00-595-7111,eprasetya@hotmail.com,Hipertensi,O,2025-02-02,2066716
+PSN1047,Natalia Saragih,9535195397832934,1989-01-13,"Jalan Kebonjati No. 6, Semarang, Banten 49626",Palangkaraya,Sumatera Selatan,(082) 555-0551,wardi73@yahoo.com,Covid-19,A,2025-09-04,2400770
+PSN1048,"Puti Zamira Yuniar, S.IP",4721822283334984,2012-12-04,"Jalan Laswi No. 34, Sungai Penuh, Gorontalo 13253",Semarang,Sulawesi Barat,+62 (036) 064-5821,dabukkejane@yahoo.com,Diabetes,B,2025-01-31,819598
+PSN1049,Dt. Gaiman Rahayu,7220676406826123,2008-04-25,"Jl. Ahmad Yani No. 98, Bekasi, Gorontalo 22966",Tarakan,Kalimantan Barat,+62-0302-670-1135,putu00@cv.net,Covid-19,O,2025-09-18,3317824

@@ -1,0 +1,61 @@
+﻿ID_Karyawan,Nama,NIK,Tanggal_Lahir,Alamat,Departemen,Jabatan,Gaji,Email,No_HP,Tanggal_Masuk,Status_Kerja,Atasan
+EMP2000,"Ir. Septi Mulyani, S.Gz",2.63488E+15,12/23/1970,"Gang Cikutra Barat No. 196, Padang, SG 73488",Pemasaran,Direktur,13132582,gunartobella@gmail.com,+62 (40) 855 8313,7/23/2024,Kontrak,Qori Sihombing
+EMP2001,"Cahya Jailani, M.Pd",5.57313E+15,8/19/1975,"Gang Pacuan Kuda No. 36, Lhokseumawe, PA 14952",Produksi,Supervisor,11613287,latuponolurhur@hotmail.com,+62 (0376) 472-4741,6/22/2019,Kontrak,Putri Purwanti
+EMP2002,"Ir. Galang Rahmawati, M.Pd",8.86893E+15,4/20/1973,"Gg. W.R. Supratman No. 92, Pangkalpinang, Kalimantan Utara 93312",Pemasaran,Manager,24222592,balamantri84@yahoo.com,(0404) 641-7093,5/10/2017,Kontrak,Cakrawala Waskita
+EMP2003,Wasis Novitasari,4.70675E+15,1/31/1977,"Gg. Jend. A. Yani No. 044, Madiun, Bengkulu 29296",Produksi,Staff,20385802,anitawidodo@ud.id,+62 (87) 466-4247,10/4/2022,Kontrak,Vanya Agustina
+EMP2004,Tgk. Adika Mandasari,7.51709E+15,1/5/2001,"Jalan Moch. Ramdan No. 0, Kota Administrasi Jakarta Timur, Kalimantan Utara 90392",Produksi,Direktur,7612600,hani65@gmail.com,+62 (0449) 423-9074,5/6/2019,Tetap,"Tgk. Lamar Mustofa, S.E.I"
+EMP2005,Gaman Tampubolon,3.1828E+15,3/29/1969,"Gg. Jend. Sudirman No. 027, Padangpanjang, Bengkulu 56299",IT,Staff,21603032,safinayuliarti@gmail.com,811962515,7/2/2023,Magang,Ajimin Puspita
+EMP2006,Humaira Anggriawan,7.48498E+15,7/29/2004,"Gang BKR No. 2, Tanjungpinang, Jawa Timur 55412",Produksi,Staff,16105878,vhariyah@ud.or.id,+62 (848) 918-1304,3/24/2022,Kontrak,"Niyaga Riyanti, M.Pd"
+EMP2007,Zulfa Prayoga,1.4351E+15,11/26/1981,"Jl. S. Parman No. 516, Kota Administrasi Jakarta Selatan, JT 86199",Pemasaran,Manager,14245534,flaksita@yahoo.com,(0910) 038-9689,9/4/2025,Magang,"Hasna Wahyudin, S.H."
+EMP2008,Tiara Safitri,7.55501E+15,9/17/2005,"Gang Kutai No. 56, Kota Administrasi Jakarta Timur, Gorontalo 89019",Produksi,Supervisor,14047453,darunamaryadi@cv.go.id,-488,3/10/2021,Magang,Dr. Endra Zulkarnain
+EMP2009,"Yance Yulianti, S.Kom",4.89434E+15,11/18/1983,"Jalan Moch. Toha No. 129, Tegal, Nusa Tenggara Timur 15415",IT,Supervisor,6026793,yuniargada@ud.biz.id,+62 (010) 276 4051,11/24/2023,Kontrak,Lamar Yuliarti
+EMP2010,Dr. Ana Tamba,3.05084E+15,8/21/1977,"Gang Monginsidi No. 015, Bandung, Kepulauan Bangka Belitung 33749",IT,Staff,4554594,dsiregar@pt.ponpes.id,-8052,11/20/2019,Tetap,Wulan Yuniar
+EMP2011,Daliono Dongoran,7.71001E+15,5/26/1979,"Jl. Cikutra Timur No. 7, Dumai, Maluku Utara 88113",Pemasaran,Direktur,12536326,laksmiwaticayadi@gmail.com,(084) 859 1438,5/26/2021,Kontrak,Asirwanda Laksita
+EMP2012,Pia Halim,8.12E+15,2/25/1984,"Jalan Kutisari Selatan No. 4, Samarinda, KB 66690",Keuangan,Supervisor,20037627,msalahudin@pd.or.id,854764268,10/28/2024,Tetap,Dasa Nashiruddin
+EMP2013,Cinthia Hariyah,6.16207E+15,5/18/1977,"Gang Moch. Ramdan No. 1, Tidore Kepulauan, SR 89406",Keuangan,Direktur,17228175,suryatmidaliono@yahoo.com,+62 (260) 299-0197,3/21/2019,Magang,"Najwa Purnawati, S.IP"
+EMP2014,Ciaobella Astuti,9.81135E+15,12/3/1993,"Gg. Joyoboyo No. 720, Tarakan, PB 28392",Produksi,Supervisor,24281689,wijayantigamanto@pt.go.id,+62 (925) 855 2978,3/7/2024,Tetap,Ihsan Halimah
+EMP2015,Mahmud Situmorang,4.2191E+15,9/17/1965,"Gang Otto Iskandardinata No. 953, Banda Aceh, NT 10824",HRD,Direktur,6204664,irma63@gmail.com,+62 (029) 838 1980,9/6/2025,Tetap,Among Winarno
+EMP2016,H. Jatmiko Wijaya,1.11149E+15,4/4/1968,"Gang Sukajadi No. 1, Jambi, Sumatera Selatan 21017",Produksi,Manager,8341747,danuja52@pd.ac.id,-4153,10/16/2021,Tetap,Ika Kurniawan
+EMP2017,"Daruna Hariyah, S.Pd",3.41502E+15,10/9/1988,"Gg. W.R. Supratman No. 3, Gorontalo, PB 01918",Pemasaran,Direktur,16956528,omarhalimah@yahoo.com,846795097,8/31/2025,Magang,"dr. Nova Oktaviani, M.Farm"
+EMP2018,Cut Hesti Irawan,1.3561E+15,1/15/1982,"Gang Laswi No. 191, Langsa, Kepulauan Bangka Belitung 82292",Pemasaran,Manager,21464192,umegantara@gmail.com,890498110,6/22/2023,Magang,"KH. Kurnia Mangunsong, S.Pd"
+EMP2019,Keisha Sitompul,3.84305E+15,7/21/1995,"Gang Cikutra Timur No. 0, Banjarmasin, Jawa Tengah 13811",Pemasaran,Manager,23249405,permataedward@yahoo.com,-4554,8/18/2018,Tetap,Lurhur Najmudin
+EMP2020,"drg. Salimah Lailasari, M.Ak",3.46664E+15,11/25/1966,"Jalan Gedebage Selatan No. 0, Metro, Lampung 52783",Pemasaran,Direktur,19487428,najmudinsetya@gmail.com,-7159,7/1/2017,Tetap,Gamani Hidayanto
+EMP2021,Prasetya Mayasari,1.88516E+15,12/12/1992,"Jalan Dipatiukur No. 54, Malang, AC 98907",Pemasaran,Manager,12506404,siska35@ud.id,+62 (050) 421-0397,4/4/2020,Kontrak,"Halima Wasita, S.Pt"
+EMP2022,Ajeng Sinaga,2.71388E+15,12/7/1988,"Jl. Ir. H. Djuanda No. 601, Padang Sidempuan, KS 30184",IT,Staff,5241082,fhandayani@yahoo.com,(021) 050 0451,8/18/2016,Tetap,Yessi Wibisono
+EMP2023,Pia Mangunsong,1.12279E+15,10/25/1976,"Jalan Erlangga No. 6, Singkawang, Sumatera Barat 51466",Keuangan,Manager,9184502,prasetyo94@pt.or.id,+62 (0257) 194 1040,4/22/2018,Kontrak,"Emong Sinaga, S.Sos"
+EMP2024,"drg. Diana Farida, S.IP",2.2508E+15,11/3/1971,"Gang Moch. Toha No. 90, Bandar Lampung, Maluku Utara 15688",Pemasaran,Supervisor,17281288,mahendraerik@gmail.com,-4782,8/12/2023,Tetap,Garang Prastuti
+EMP2025,Putri Wibisono,3.79652E+15,4/21/1994,"Jl. Erlangga No. 569, Kotamobagu, Kalimantan Utara 36868",HRD,Direktur,16503247,budiyantoraden@hotmail.com,872532337,10/20/2024,Kontrak,Hj. Wirda Januar
+EMP2026,Wardi Maheswara,8.08315E+15,3/31/1996,"Gang Gedebage Selatan No. 95, Meulaboh, Papua 47506",HRD,Staff,24451731,anggrainibanawa@perum.edu,-5872,3/14/2018,Magang,Balidin Suwarno
+EMP2027,Hasna Handayani,6.10688E+15,5/22/1971,"Jl. M.T Haryono No. 51, Padang, SB 60614",HRD,Direktur,22356375,bahuwiryalazuardi@gmail.com,(041) 028 1466,1/7/2025,Tetap,Raina Gunawan
+EMP2028,Samiah Gunarto,5.59925E+15,10/26/1988,"Gang Veteran No. 2, Tasikmalaya, DKI Jakarta 36516",HRD,Supervisor,10041495,ssihombing@hotmail.com,(018) 840-0517,10/25/2019,Tetap,"Rachel Yuliarti, S.Farm"
+EMP2029,Novi Wasita,5.89615E+15,7/14/2003,"Jl. Cikapayang No. 2, Cirebon, KS 00953",IT,Supervisor,21569187,rachel91@cv.sch.id,-7379,12/7/2017,Tetap,Bakda Haryanti
+EMP2030,Pangeran Padmasari,9.91801E+15,11/8/1992,"Jalan Indragiri No. 11, Pematangsiantar, Sulawesi Tenggara 96967",HRD,Supervisor,4501157,bahuwirya25@cv.id,(062) 784 9186,3/15/2025,Tetap,Balijan Anggraini
+EMP2031,Titi Yuniar,5.54176E+15,7/7/1987,"Gang Cihampelas No. 0, Tarakan, Maluku Utara 59426",Pemasaran,Manager,24901715,andrianiharsanto@ud.web.id,+62 (0006) 037-7388,8/4/2023,Kontrak,Dartono Pradipta
+EMP2032,Oliva Napitupulu,7.94458E+15,8/28/1996,"Gg. Jayawijaya No. 4, Cimahi, Sulawesi Tenggara 32909",Produksi,Manager,15002109,nainggolantaswir@perum.net.id,-9152,10/5/2021,Tetap,Bella Yuliarti
+EMP2033,Hani Wibowo,6.23731E+15,12/2/1990,"Jl. Jayawijaya No. 818, Gorontalo, SR 62870",HRD,Direktur,9946594,pradanajaswadi@gmail.com,+62 (05) 020 9524,2/20/2021,Magang,Puti Irma Andriani
+EMP2034,Amelia Pudjiastuti,6.29873E+15,5/10/1985,"Gg. Monginsidi No. 5, Purwokerto, Sumatera Selatan 80409",IT,Direktur,15310552,jaimanyulianti@perum.or.id,+62 (927) 752 9167,3/29/2016,Magang,Nabila Padmasari
+EMP2035,Balijan Pudjiastuti,8.64294E+15,7/28/2005,"Gg. Soekarno Hatta No. 5, Bitung, LA 97477",IT,Staff,15471761,emas25@cv.or.id,(0747) 002-0246,5/31/2022,Tetap,Dr. Cinthia Hutapea
+EMP2036,"Vanya Siregar, S.I.Kom",8.54572E+15,5/29/1995,"Jl. BKR No. 7, Mataram, LA 28077",HRD,Staff,23576703,rajasajumari@cv.desa.id,+62 (016) 216-5120,2/21/2020,Magang,Tgk. Pangestu Safitri
+EMP2037,Murti Saptono,8.31198E+15,8/3/1965,"Gang Veteran No. 45, Pariaman, Gorontalo 89186",Produksi,Direktur,6904941,anapitupulu@hotmail.com,+62 (78) 432-4359,5/29/2021,Tetap,Uda Prasetyo
+EMP2038,Bakiman Napitupulu,7.71353E+15,1/7/1994,"Gg. Ciwastra No. 14, Kota Administrasi Jakarta Pusat, Bengkulu 10463",HRD,Manager,11983441,uandriani@hotmail.com,(0935) 915-0977,6/20/2025,Tetap,"Kasiran Handayani, S.Ked"
+EMP2039,Gada Simbolon,7.89982E+15,5/21/1993,"Jl. Jakarta No. 7, Kediri, JT 16574",IT,Supervisor,9320385,lestarijagapati@perum.sch.id,+62 (52) 478-3801,1/5/2021,Magang,"H. Emong Prabowo, S.E."
+EMP2040,"Dr. Rahayu Suwarno, S.Farm",6.23086E+15,4/23/1989,"Gg. Pasirkoja No. 422, Kendari, BT 11979",Keuangan,Direktur,22877237,rahayugada@yahoo.com,-2061,12/26/2020,Tetap,Eva Jailani
+EMP2041,Kamidin Melani,6.27021E+15,12/27/1974,"Jalan Rajawali Timur No. 23, Kota Administrasi Jakarta Barat, Sulawesi Barat 18261",Pemasaran,Staff,17364386,ekamandasari@gmail.com,+62 (551) 031-0451,5/9/2024,Magang,"Bagas Uwais, S.Ked"
+EMP2042,Bambang Puspita,5.99542E+15,4/12/1996,"Gg. M.T Haryono No. 03, Pontianak, Sulawesi Selatan 19617",IT,Manager,19134415,ichasinaga@pd.ponpes.id,-9749,2/15/2024,Kontrak,Chandra Winarno
+EMP2043,R.M. Yosef Rahimah,8.76494E+15,10/8/1966,"Gg. Pacuan Kuda No. 196, Bau-Bau, Sulawesi Barat 60923",HRD,Direktur,13749436,edi26@ud.com,-6727,3/2/2024,Tetap,Jumari Lailasari
+EMP2044,Darmanto Pertiwi,4.22896E+15,8/13/1984,"Jl. Jakarta No. 54, Kota Administrasi Jakarta Selatan, SR 88659",Pemasaran,Direktur,21395683,karmanprayoga@pd.or.id,(0109) 665-3115,10/29/2021,Kontrak,"Baktiono Nasyidah, S.E."
+EMP2045,"R. Timbul Sihotang, M.TI.",2.24606E+15,7/18/1974,"Jalan Dr. Djunjunan No. 400, Pontianak, DKI Jakarta 58300",HRD,Manager,9333152,carub38@ud.mil,(010) 620 8402,12/22/2023,Magang,Pandu Prastuti
+EMP2046,Winda Kusmawati,2.36842E+15,12/9/1977,"Gg. Sukajadi No. 69, Balikpapan, GO 89262",HRD,Direktur,14524227,galih91@hotmail.com,(0858) 416-2065,6/25/2016,Kontrak,dr. Mala Damanik
+EMP2047,Dt. Wage Zulaika,1.15918E+15,6/6/1992,"Jl. Antapani Lama No. 2, Kendari, SB 48070",Keuangan,Manager,16344096,pradiptaokta@pd.mil.id,+62 (361) 876-9074,6/17/2018,Kontrak,Ir. Liman Irawan
+EMP2048,Wulan Pradana,1.36131E+15,10/26/1987,"Gang Cihampelas No. 67, Bukittinggi, JK 81685",Pemasaran,Supervisor,11328141,kpermadi@yahoo.com,+62 (954) 281-3985,3/31/2020,Magang,"Hj. Olivia Mulyani, S.IP"
+EMP2049,Jaswadi Adriansyah,8.7179E+15,11/15/1982,"Jalan Waringin No. 91, Samarinda, JB 26093",Pemasaran,Manager,22485139,adinatarajata@ud.int,836221148,2/27/2017,Kontrak,"Pandu Sirait, S.T."
+EMP2050,Sutan Alambana Yulianti,5.60599E+15,4/24/1989,"Jalan Ciwastra No. 2, Kota Administrasi Jakarta Selatan, Kalimantan Barat 23713",Keuangan,Manager,9134207,lsuartini@pd.desa.id,-6593,6/3/2017,Kontrak,"Almira Wahyuni, S.Kom"
+EMP2051,Among Firmansyah,7.16133E+15,4/27/1988,"Gg. Rungkut Industri No. 94, Sawahlunto, Lampung 20884",IT,Manager,12516999,owidodo@cv.net.id,(088) 966-5843,12/8/2020,Magang,"Zalindra Gunarto, M.Kom."
+EMP2052,dr. Kuncara Saragih,9.8063E+15,5/16/1982,"Gang Pasteur No. 0, Subulussalam, Jambi 55965",HRD,Direktur,13405634,argono65@yahoo.com,+62 (062) 565-3511,2/1/2018,Kontrak,"dr. Puji Permadi, S.E.I"
+EMP2053,Lanang Permata,6.54635E+15,6/25/1987,"Gg. KH Amin Jasuta No. 482, Sabang, Kepulauan Bangka Belitung 63257",Produksi,Direktur,9853584,natsirjasmin@hotmail.com,(020) 295-4124,11/10/2017,Magang,R.M. Bakidin Hutapea
+EMP2054,"drg. Purwadi Suwarno, M.Farm",1.32357E+15,7/9/2005,"Jl. Lembong No. 40, Tangerang, Kepulauan Riau 72752",HRD,Manager,18488191,luhungwidiastuti@hotmail.com,-10043,9/23/2018,Kontrak,Bagya Wulandari
+EMP2055,Cemplunk Suryono,8.43E+15,4/17/1987,"Jl. Ir. H. Djuanda No. 05, Tegal, Papua Barat 82565",HRD,Direktur,18936751,rdongoran@perum.ponpes.id,(0396) 283 4466,9/22/2019,Magang,"Drs. Gilda Wijaya, M.Kom."
+EMP2056,Ikin Wibowo,2.40612E+15,3/6/1966,"Gg. Stasiun Wonokromo No. 36, Batam, LA 77980",IT,Staff,8301754,arsipatra72@yahoo.com,+62 (0192) 783 0826,2/13/2025,Magang,"H. Labuh Pudjiastuti, S.Ked"
+EMP2057,Jagapati Kuswandari,9.72776E+15,6/6/1997,"Jl. Lembong No. 573, Batam, ST 95200",HRD,Staff,6269042,kawayakuswandari@pd.id,(0599) 578-6967,10/19/2024,Kontrak,Laila Hartati
+EMP2058,"KH. Koko Siregar, S.Psi",9.02455E+15,6/28/1971,"Jl. Cihampelas No. 841, Pagaralam, KB 54159",Keuangan,Direktur,19118805,esimanjuntak@cv.gov,817894341,1/26/2021,Kontrak,Pranata Fujiati
+EMP2059,"R. Kania Permata, S.Psi",3.86389E+15,4/11/2002,"Jl. K.H. Wahid Hasyim No. 485, Kota Administrasi Jakarta Utara, Kepulauan Riau 16032",Keuangan,Direktur,5983509,icha76@hotmail.com,+62 (375) 563 9740,7/8/2019,Kontrak,"Prayitna Ramadan, M.Pd"
